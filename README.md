@@ -17,13 +17,23 @@ After reaching the web application, select one of the four tabs and enter a desi
 
 Below are the essential function with description and time complexities.
 
-| **Methods** | **Description** | **Time Complexity** |
-|:-----------:|:---------------:|:-------------------:|
-| overFlow        | Function is used to determine if the input will cause and overflow error | O(1) |
-| uniqueStringGen |
-| asciiStringGen  |
-| alphaNumerical  |
+| **Methods**     | **Description** | **Time Complexity** |
+|:---------------:|:---------------:|:-------------------:|
+| overFlow        | 
+Function to determine if the input will cause and overflow error                               | 
+O(1), boolean check                                        |
+| uniqueStringGen |  
+Function to generate a unique ASCII string of [0,94] characters long                                |
+O(L), the length of the desired word                       |
+| asciiStringGen  | 
+Function to generate a non-unique ASCII character string                              |
+O(L), the length of the desired word                       |
+| alphaNumerical  | 
+Function to generate a random string consisting strictly of alphanumerical characters           |
+|O(L), the length of the desired word                      |
 | randomWordGen   |
+Function to generate a random string consisting strictly of alphabetical character              |                                           
+| O(L), the length of the desired word                      |
 
 
 ## Front End Implementation
