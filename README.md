@@ -1,4 +1,4 @@
-# Hello! This is the Random String Generator Web Application markdown file.
+# random-string-generator web application markdown file.
 
 ## Motivation
 The motivation behind this project was my fascination with generating random strings. Additionally,
@@ -19,7 +19,7 @@ Below are the essential function with description and time complexities.
 
 | **Methods** | **Description** | **Time Complexity** |
 |:-----------:|:---------------:|:-------------------:|
-| overFlow        | 
+| overFlow        | Function is used to determine if the input will cause and overflow error | O(1) |
 | uniqueStringGen |
 | asciiStringGen  |
 | alphaNumerical  |
