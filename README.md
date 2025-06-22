@@ -19,9 +19,7 @@ Below are the essential function with description and time complexities.
 
 | **Methods**     | **Description** | **Time Complexity** |
 |:---------------:|:---------------:|:-------------------:|
-| overFlow        | 
-Function to determine if the input will cause and overflow error                               | 
-O(1), boolean check                                        |
+| overFlow        | Function to determine if the input will cause and overflow error| O(1), boolean check |
 | uniqueStringGen |  
 Function to generate a unique ASCII string of [0,94] characters long                                |
 O(L), the length of the desired word                       |
