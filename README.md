@@ -14,12 +14,12 @@ characters. Store the strings into a database which the user can easily download
 as a .txt file. If the user would like, they may also clear the database to 
 generate different strings. 
 
-## How to compile and run the program
-You are able to download, fork or clone the repository on your own machine. 
-Afterwards, make your way to the directory on your machine, start up your IDE.
+## How to run the program
+First, download, fork or clone the repository on your own machine. 
+Afterwards, start up your IDE and make your way to the directory on your machine.
 While in the random-string-generator directory, run 'node server.js' in terminal, 
 then go to the url specified. After reaching the web application, select 
-one of the four tabs, enter a desired length, and click generate.
+one of the four tabs, enter a desired length, and click generate. 
 
 
 ## Back End Implementation 
